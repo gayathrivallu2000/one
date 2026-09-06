@@ -1705,4 +1705,4 @@
     </script>
 
 </body>
-</html>
+</html> can you change the ui to the user freiendly way
